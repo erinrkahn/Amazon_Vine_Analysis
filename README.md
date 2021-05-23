@@ -32,3 +32,4 @@ There were 220 Vine reviews and 74,470 non-Vine reviews.
 
 ## Summary
 
+There does not appear to be bias in the paid Vine reviews as the percentage of 5 star reviews from Vine members is 44%, while non-Vine 5 star reviews account for 62% of non-Vine reviews. Additionally, the number of non-Vine reviews is much higher than Vine reviews (120,863 compared to 497). To support these statements, additional analyses should be performed on other product types to see if these results are only specific to healthcare products. 
