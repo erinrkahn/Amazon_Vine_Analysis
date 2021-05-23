@@ -20,12 +20,13 @@ There were 497 Vine reviews for this subset of healthcare products and 120,863 n
 ###### Image
 >
 
+There were 220 Vine reviews and 74,470 non-Vine reviews.
 
 -**What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
 ###### Image
 >
 
-
+44% of Vine reviews were 5 stars, while 62% of non-Vine reviews were 5 stars.
 
 ## Summary
 
