@@ -17,8 +17,8 @@ The purpose of this analysis is to look at The Amazon Vine program for a specifi
 There were 497 Vine reviews for this subset of healthcare products and 120,863 non-Vine reviews.
 
 -**How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
-###### Image
->
+###### 5 Star Reviews
+> ![five_star](https://user-images.githubusercontent.com/77405273/119279473-d6751d80-bbe0-11eb-9346-3dc1f669e8c9.png)
 
 There were 220 Vine reviews and 74,470 non-Vine reviews.
 
